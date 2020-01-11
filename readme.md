@@ -10,7 +10,7 @@ description: "This is an Azure Search demo website based on data from the New Yo
 urlFragment: search-dotnet-asp-net-mvc-jobs
 ---
 
-# Azure Search .NET - Jobs Website Sample
+# Azure Search .NET - Jobs Website Samples
 
 This is an <a href="http://azure.microsoft.com/en-us/services/search/">Azure Search</a> demo website based on data from the <a href="https://nycopendata.socrata.com/">New York City Open Data initiative</a>.  Jobs listed here should not be considered active.
 
